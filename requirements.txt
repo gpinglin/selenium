@@ -1,0 +1,5 @@
+chromedriver==2.24.1
+lxml==4.2.1
+selenium==3.5.0
+TestRunner==0.8.4
+
