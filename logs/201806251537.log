@@ -1,0 +1,19 @@
+You had select Chrome browser.
+The test server url is: https://www.zhihu.com/
+Starting Chrome browser.
+Open url: https://www.zhihu.com/
+Maximize the current window.
+Set implicitly wait 10 seconds.
+Had find the element '  ' successful by xpath via value: //*[@id='root']/div/div[2]/header/div/div[2]/button[3] 
+The element '  ' was clicked.
+wait for 1 seconds.
+Had find the element ' µÇÂ¼ ' successful by xpath via value: /html/body/div[4]/div/span/div/div[2]/div/div/div/div[2]/div[2]/span 
+The element ' ×¢²á ' was clicked.
+wait for 3 seconds.
+Had type ' 18060912785 ' in inputBox
+wait for 1 seconds.
+Had type ' 135746 ' in inputBox
+wait for 1 seconds.
+Had find the element ' µÇÂ¼ ' successful by xpath via value: /html/body/div[4]/div/span/div/div[2]/div/div/div/div[2]/div[1]/form/button 
+The element ' µÇÂ¼ ' was clicked.
+wait for 3 seconds.

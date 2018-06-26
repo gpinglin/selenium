@@ -1,0 +1,19 @@
+2018-06-25 16:11:17,713 - BrowserEngine - INFO - You had select Chrome browser.
+2018-06-25 16:11:17,714 - BrowserEngine - INFO - The test server url is: https://www.zhihu.com/
+2018-06-25 16:11:21,392 - BrowserEngine - INFO - Starting Chrome browser.
+2018-06-25 16:11:22,962 - BrowserEngine - INFO - Open url: https://www.zhihu.com/
+2018-06-25 16:11:24,083 - BrowserEngine - INFO - Maximize the current window.
+2018-06-25 16:11:24,084 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-06-25 16:11:24,314 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='root']/div/div[2]/header/div/div[2]/button[3] 
+2018-06-25 16:11:24,518 - BasePage - INFO - The element '  ' was clicked.
+2018-06-25 16:11:24,520 - BasePage - INFO - wait for 1 seconds.
+2018-06-25 16:11:24,551 - BasePage - INFO - Had find the element ' µÇÂ¼ ' successful by xpath via value: /html/body/div[4]/div/span/div/div[2]/div/div/div/div[2]/div[2]/span 
+2018-06-25 16:11:24,903 - BasePage - INFO - The element ' ×¢²á ' was clicked.
+2018-06-25 16:11:24,904 - BasePage - INFO - wait for 3 seconds.
+2018-06-25 16:11:25,108 - BasePage - INFO - Had type ' 18060912785 ' in inputBox
+2018-06-25 16:11:25,109 - BasePage - INFO - wait for 1 seconds.
+2018-06-25 16:11:25,223 - BasePage - INFO - Had type ' 135746 ' in inputBox
+2018-06-25 16:11:25,224 - BasePage - INFO - wait for 1 seconds.
+2018-06-25 16:11:25,255 - BasePage - INFO - Had find the element ' µÇÂ¼ ' successful by xpath via value: /html/body/div[4]/div/span/div/div[2]/div/div/div/div[2]/div[1]/form/button 
+2018-06-25 16:11:25,443 - BasePage - INFO - The element ' µÇÂ¼ ' was clicked.
+2018-06-25 16:11:25,444 - BasePage - INFO - wait for 3 seconds.
